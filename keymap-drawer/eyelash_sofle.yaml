@@ -39,7 +39,7 @@ layers:
   - K
   - L
   - {t: ;, s: ':'}
-  - COLN
+  - ':'
   - $$mdi:apple-keyboard-shift$$
   - Z
   - X
@@ -52,7 +52,7 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - JYEN
+  - INT YEN
   - $$mdi:volume-off$$
   - LEFT WIN
   - $$mdi:apple-keyboard-option$$
@@ -80,7 +80,7 @@ layers:
   - F10
   - F11
   - Gui+$$mdi:keyboard-space$$
-  - ZKHK
+  - LANGUAGE 1
   - PgUp
   - $$mdi:arrow-up-bold$$
   - PgDn
@@ -153,8 +153,8 @@ layers:
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - CIRC
-  - Sft+CIRC
+  - ^
+  - ^
   - '@'
   - Sft+@
   - {t: '$$mdi:transfer$$', type: trans}
